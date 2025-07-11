@@ -45,3 +45,10 @@
 
 本项目为 **二进制发行版本**（不开源）。  
 允许自由使用与分发，但目前不支持修改。
+
+## ☕ 支持 Dragoon Reader
+
+如果您喜欢这个应用程序，请考虑在这里支持它:  
+👉 [https://ko-fi.com/anubisred](https://ko-fi.com/anubisred)
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
