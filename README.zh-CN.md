@@ -9,7 +9,7 @@
 
 ## 🔽 下载地址
 
-👉 [点击下载 v1.0.4](https://github.com/anubisred253/DragoonReader/releases)
+👉 [点击下载 v1.0.0](https://github.com/anubisred253/DragoonReader/releases)
 
 ---
 
