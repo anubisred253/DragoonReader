@@ -3,7 +3,7 @@
 **A clean, multilingual EPUB reader for Windows**  
 🖥️ No installation required • 🎨 Customizable themes • 🌍 Supports 6 languages
 
-[🇨🇳 View Chinese version →](./README.zh-CN.md)
+[🇨🇳 查看中文说明 →](./README.zh-CN.md)
 
 ---
 
@@ -45,3 +45,10 @@ Independent developer • EPUB enthusiast
 
 This project is distributed as **binary-only** (no source code).  
 Usage and redistribution are permitted. Modification is not supported at this time.
+
+## ☕ Support Dragoon Reader
+
+If you enjoy this app, consider supporting it here:  
+👉 [https://ko-fi.com/anubisred](https://ko-fi.com/anubisred)
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
