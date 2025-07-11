@@ -1,9 +1,9 @@
 # 📘 Dragoon Reader
 
 **A clean, multilingual EPUB reader for Windows**  
-🖥️ No installation required • 🎨 Customizable themes • 🌍 6 languages
+🖥️ No installation required • 🎨 Customizable themes • 🌍 Supports 6 languages
 
-[🇨🇳 查看简体中文说明 →](./README.zh-CN.md)
+[🇨🇳 View Chinese version →](./README.zh-CN.md)
 
 ---
 
@@ -16,11 +16,13 @@
 ## ✨ Features
 
 - 📚 FlowDocument-based EPUB rendering
-- 🌍 Multilingual UI (中文, English, 日本語, Français, Русский, Español)
-- 🎨 Switchable themes (Light/Dark/Yellow/Blue/Green)
-- 💾 Local offline usage, no cloud, no tracking
-- 🧩 Small and portable (no installation required)
-- 🖼 Supports picture and annotation display
+- 🌍 Multilingual UI: 中文, English, 日本語, Français, Русский, Español
+- 🎨 Theme switching (Light / Dark / Yellow / Blue / Green)
+- 🖼️ Mixed text and image rendering
+- 💬 Footnote and annotation support
+- 💾 Fully offline – no cloud, no tracking
+- 🧩 Portable EXE – run without installation
+
 ---
 
 ## 📂 How to Use
@@ -28,18 +30,18 @@
 1. Launch `DragoonReader.exe`
 2. Click **Import EPUB** to add books
 3. Choose your preferred **Theme** and **Language**
-4. Read, switch chapters, zoom, scroll freely
+4. Start reading – scroll, zoom, and flip chapters freely
 
 ---
 
 ## 👤 Author
 
 **Dragoon / 龙骑兵**  
-Independent developer & reader
+Independent developer • EPUB enthusiast
 
 ---
 
 ## 📃 License
 
 This project is distributed as **binary-only** (no source code).  
-Usage and redistribution are permitted, but modification is not supported.
+Usage and redistribution are permitted. Modification is not supported at this time.
