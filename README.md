@@ -1,6 +1,3 @@
-# DragoonReader
-Dragoon Reader – A clean, offline EPUB reader with multilingual UI and themes.
-
 # 📘 Dragoon Reader
 
 **A clean, multilingual EPUB reader for Windows**  
