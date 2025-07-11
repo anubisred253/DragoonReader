@@ -17,10 +17,10 @@
 
 - 📚 FlowDocument-based EPUB rendering
 - 🌍 Multilingual UI (中文, English, 日本語, Français, Русский, Español)
-- 🎨 Switchable themes (Light/Dark/Custom)
+- 🎨 Switchable themes (Light/Dark/Yellow/Blue/Green)
 - 💾 Local offline usage, no cloud, no tracking
-- 🧩 Small and portable (just one EXE)
-
+- 🧩 Small and portable (no installation required)
+- 🖼 Supports picture and annotation display
 ---
 
 ## 📂 How to Use
@@ -34,8 +34,8 @@
 
 ## 👤 Author
 
-**Dragoon / 老龙**  
-Independent developer & reader • Contact via GitHub or Fiverr
+**Dragoon / 龙骑兵**  
+Independent developer & reader
 
 ---
 
