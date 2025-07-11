@@ -21,7 +21,7 @@
 - 🖼️ Mixed text and image rendering
 - 💬 Footnote and annotation support
 - 💾 Fully offline – no cloud, no tracking
-- 🧩 Portable EXE – run without installation
+- 🧩 No installation required, just unzip and use (green version)
 
 ---
 
