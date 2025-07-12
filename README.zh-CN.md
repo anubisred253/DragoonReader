@@ -68,4 +68,7 @@
 如果你在使用过程中发现问题，或者有任何建议，欢迎在 Issues 留言。我会尽量解决——
 但前提始终是：保持这个阅读器简单清爽的样子。
 
+<img width="1929" height="2109" alt="1752293249524" src="https://github.com/user-attachments/assets/350aff4d-859f-4ff5-9834-c692ad6e5bdf" />
+
+
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
