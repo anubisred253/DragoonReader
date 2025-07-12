@@ -71,3 +71,5 @@ Still, if you encounter any issues or have suggestions, feel free to leave a mes
 As long as it keeps this reader simple and clean.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
+
+<img width="1929" height="2109" alt="1752293249524" src="https://github.com/user-attachments/assets/350aff4d-859f-4ff5-9834-c692ad6e5bdf" />
