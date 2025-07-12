@@ -69,5 +69,5 @@
 但前提始终是：保持这个阅读器简单清爽的样子。
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
 
-
+---
 <img width="1929" height="2109" src="https://github.com/user-attachments/assets/350aff4d-859f-4ff5-9834-c692ad6e5bdf" />
