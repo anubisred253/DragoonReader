@@ -9,16 +9,17 @@
 
 ## 🔽 Download
 
-👉 [Download v1.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v1.0.0)
+👉 [Download v2.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v2.0.0)
 
 ---
 
 ## ✨ Features
 
-- 📚 FlowDocument-based EPUB rendering
+- 📚 WebView2-based EPUB rendering
 - 🌍 Multilingual UI: 中文, English, 日本語, Français, Русский, Español
 - 🎨 Theme switching (Light / Dark / Yellow / Blue / Green)
 - 🖼️ Mixed text and image rendering
+- 📰 Supports page-turning mode and streaming reading
 - 💬 Footnote and annotation support
 - 💾 Fully offline – no cloud, no tracking
 - 🧩 No installation required, just unzip and use (green version)
@@ -67,8 +68,7 @@ And if you feel like buying me a coffee, that would make me happy ☕
 I won’t make any promises like “one coffee equals the next version.”
 I’m just a beginner. This project isn’t that serious, and I don’t want to make it sound like a big deal.
 
-Still, if you encounter any issues or have suggestions, feel free to leave a message in Issues. I’ll do my best to respond—
-As long as it keeps this reader simple and clean.
+Still, if you encounter any issues or have suggestions, feel free to leave a message in Issues. I’ll do my best to respond—As long as it keeps this reader simple and clean.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
 ---
