@@ -9,13 +9,13 @@
 
 ## 🔽 下载地址
 
-👉 [点击下载 v1.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v1.0.0)
+👉 [点击下载 v2.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v2.0.0)
 
 ---
 
 ## ✨ 功能特色
 
-- 📚 基于 FlowDocument 的 EPUB 阅读体验
+- 📚 基于 WebView2 的 EPUB 阅读体验
 - 🌍 多语言界面（支持 中文、英文、日文、法文、俄文、西班牙语）
 - 🎨 支持主题切换（明亮 / 黑暗 / 黄色 / 蓝色 / 绿色）
 - 🖼️ 支持图文混排显示（图片插入在正文中，非底部堆叠）
