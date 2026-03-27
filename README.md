@@ -14,7 +14,11 @@
 ---
 
 ## ✨ Features
-
+- **Separate Bookshelf/Reading Page** — The `MainWindow` handles the switching between bookshelf and reading pages, creating a clearer structure.
+- **Categorized Bookshelf** — The left-hand category bar supports switching between "All / Uncategorized / Subject," while the right side displays books as cards.
+- **Cover and Metadata Display** — Automatically reads the EPUB's `title`, `creator`, `subject`, and cover information, displaying the cover, title, author, and reading progress in the bookshelf.
+- **Reading Progress Display** — Calculates book reading progress by chapter percentage, displaying the percentage on the bookshelf page.
+- **Double-Click to Enter Reading** — Double-clicking a book in the bookshelf enters the reading page; right-clicking allows you to delete books.
 - 📚 WebView2-based EPUB rendering
 - 🌍 Multilingual UI: 中文, English, 日本語, Français, Русский, Español
 - 🎨 Theme switching (Light / Dark / Yellow / Blue / Green)
