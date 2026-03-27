@@ -9,7 +9,7 @@
 
 ## 🔽 Download
 
-👉 [Download v2.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v2.0.0)
+👉 [Download v3.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.0.0)
 
 ---
 
