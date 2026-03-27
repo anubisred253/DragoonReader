@@ -12,6 +12,11 @@
 👉 [点击下载 v3.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.0.0)
 
 ---
+<img width="2334" height="1395" alt="图片" src="https://github.com/user-attachments/assets/9197652f-938b-407e-8a45-967bfc27a1c1" />
+
+<img width="2327" height="1392" alt="图片" src="https://github.com/user-attachments/assets/0805a2e5-9e4e-4b1f-a233-9a92e82bea6d" />
+
+---
 
 ## ✨ 功能特色
 - **书架页 / 阅读页分离** — `MainWindow` 负责承载和切换，书架页与阅读页拆分为独立视图，结构更清晰
