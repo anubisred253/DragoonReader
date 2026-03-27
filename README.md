@@ -12,6 +12,11 @@
 👉 [Download v3.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.0.0)
 
 ---
+<img width="2334" height="1395" alt="图片" src="https://github.com/user-attachments/assets/9197652f-938b-407e-8a45-967bfc27a1c1" />
+
+<img width="2327" height="1392" alt="图片" src="https://github.com/user-attachments/assets/0805a2e5-9e4e-4b1f-a233-9a92e82bea6d" />
+
+---
 
 ## ✨ Features
 - **Separate Bookshelf/Reading Page** — The `MainWindow` handles the switching between bookshelf and reading pages, creating a clearer structure.
@@ -76,4 +81,5 @@ Still, if you encounter any issues or have suggestions, feel free to leave a mes
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anubisred)
 ---
-<img width="1929" height="2109" alt="1752293249524" src="https://github.com/user-attachments/assets/350aff4d-859f-4ff5-9834-c692ad6e5bdf" />
+
+
