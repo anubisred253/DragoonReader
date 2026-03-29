@@ -12,7 +12,7 @@
 👉 [Download v3.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.0.0)
 
 ---
-<img width="2334" height="1395" alt="图片" src="https://github.com/user-attachments/assets/9197652f-938b-407e-8a45-967bfc27a1c1" />
+<img width="2031" height="1248" alt="图片" src="https://github.com/user-attachments/assets/42faf548-ed89-45ff-8b0b-d402e6387d32" />
 
 <img width="2327" height="1392" alt="图片" src="https://github.com/user-attachments/assets/0805a2e5-9e4e-4b1f-a233-9a92e82bea6d" />
 
@@ -22,6 +22,7 @@
 - **Separate Bookshelf/Reading Page** — The `MainWindow` handles the switching between bookshelf and reading pages, creating a clearer structure.
 - **Categorized Bookshelf** — The left-hand category bar supports switching between "All / Uncategorized / Subject," while the right side displays books as cards.
 - **Cover and Metadata Display** — Automatically reads the EPUB's `title`, `creator`, `subject`, and cover information, displaying the cover, title, author, and reading progress in the bookshelf.
+- **Search and Filter** — Supports instant filtering by entering book title and author name; you can also click on an author to filter their books.
 - **Reading Progress Display** — Calculates book reading progress by chapter percentage, displaying the percentage on the bookshelf page.
 - **Double-Click to Enter Reading** — Double-clicking a book in the bookshelf enters the reading page; right-clicking allows you to delete books.
 - 📚 WebView2-based EPUB rendering
