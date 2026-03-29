@@ -1,7 +1,7 @@
 # 📘 Dragoon Reader
 
-**A clean, multilingual EPUB reader for Windows**  
-🖥️ No installation required • 🎨 Customizable themes • 🌍 Supports 6 languages
+**A clean, EPUB reader for Windows**  
+🖥️ No installation required • 🎨 Customizable themes
 
 [🇨🇳 查看中文说明 →](./README.zh-CN.md)
 
@@ -24,9 +24,8 @@
 - **Cover and Metadata Display** — Automatically reads the EPUB's `title`, `creator`, `subject`, and cover information, displaying the cover, title, author, and reading progress in the bookshelf.
 - **Search and Filter** — Supports instant filtering by entering book title and author name; you can also click on an author to filter their books.
 - **Reading Progress Display** — Calculates book reading progress by chapter percentage, displaying the percentage on the bookshelf page.
-- **Double-Click to Enter Reading** — Double-clicking a book in the bookshelf enters the reading page; right-clicking allows you to delete books.
+- **Double-Click to Enter Reading** — clicking a book in the bookshelf enters the reading page; right-clicking allows you to delete books.
 - 📚 WebView2-based EPUB rendering
-- 🌍 Multilingual UI: 中文, English, 日本語, Français, Русский, Español
 - 🎨 Theme switching (Light / Dark / Yellow / Blue / Green)
 - 🖼️ Mixed text and image rendering
 - 📰 Supports page-turning mode and streaming reading
@@ -40,7 +39,7 @@
 
 1. Launch `DragoonReader.exe`
 2. Click **Import EPUB** to add books
-3. Choose your preferred **Theme** and **Language**
+3. Choose your preferred **Theme**
 4. Start reading – scroll, zoom, and flip chapters freely
 
 ---
