@@ -9,7 +9,7 @@
 
 ## 🔽 Download
 
-👉 [Download v3.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.0.0)
+👉 [Download v3.1.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.1.0)
 
 ---
 <img width="2031" height="1248" alt="图片" src="https://github.com/user-attachments/assets/42faf548-ed89-45ff-8b0b-d402e6387d32" />
