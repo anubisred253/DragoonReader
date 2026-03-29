@@ -12,9 +12,10 @@
 👉 [Download v3.1.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.1.0)
 
 ---
-<img width="2031" height="1248" alt="图片" src="https://github.com/user-attachments/assets/42faf548-ed89-45ff-8b0b-d402e6387d32" />
+<img width="2045" height="1308" alt="图片" src="https://github.com/user-attachments/assets/9667c185-d5a0-44bd-83c5-5580d198cec5" />
 
-<img width="2327" height="1392" alt="图片" src="https://github.com/user-attachments/assets/0805a2e5-9e4e-4b1f-a233-9a92e82bea6d" />
+<img width="2049" height="1317" alt="图片" src="https://github.com/user-attachments/assets/4bcd4bab-7f3d-46ae-8edf-623d8252e170" />
+
 
 ---
 
