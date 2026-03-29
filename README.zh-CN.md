@@ -9,10 +9,10 @@
 
 ## 🔽 下载地址
 
-👉 [点击下载 v3.0.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.0.0)
+👉 [点击下载 v3.1.0](https://github.com/anubisred253/DragoonReader/releases/tag/v3.1.0)
 
 ---
-<img width="2334" height="1395" alt="图片" src="https://github.com/user-attachments/assets/9197652f-938b-407e-8a45-967bfc27a1c1" />
+<img width="2031" height="1248" alt="图片" src="https://github.com/user-attachments/assets/42faf548-ed89-45ff-8b0b-d402e6387d32" />
 
 <img width="2327" height="1392" alt="图片" src="https://github.com/user-attachments/assets/0805a2e5-9e4e-4b1f-a233-9a92e82bea6d" />
 
@@ -22,10 +22,10 @@
 - **书架页 / 阅读页分离** — `MainWindow` 负责承载和切换，书架页与阅读页拆分为独立视图，结构更清晰
 - **分类书架** — 左侧分类栏支持“全部 / 未分类 / 主题(subject)”切换，右侧以卡片形式展示书籍
 - **封面与元数据展示** — 自动读取 EPUB 的 `title`、`creator`、`subject`、封面信息，在书架中显示封面、书名、作者和阅读进度
+- **搜索与筛选** — 支持输入书名和作者名即时过滤，可以单击作者筛选该作者的书
 - **阅读进度显示** — 以章节比例计算书籍阅读进度，书架页显示百分比
 - **双击进入阅读** — 在书架双击书籍即可进入阅读页，右键支持删除书籍
 - 📚 基于 WebView2 的 EPUB 阅读体验
-- 🌍 多语言界面（支持 中文、英文、日文、法文、俄文、西班牙语）
 - 🎨 支持主题切换（明亮 / 黑暗 / 黄色 / 蓝色 / 绿色）
 - 🖼️ 支持图文混排显示（图片插入在正文中，非底部堆叠）
 - 💬 支持注释（点击脚注图标弹出说明）
